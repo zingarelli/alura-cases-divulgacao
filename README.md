@@ -21,3 +21,17 @@ Veja o projeto na Vercel: https://alura-cases-divulgacao-sigma.vercel.app
 ### FAQ
 
 ![screenshot da página de perguntas](https://github.com/zingarelli/desafios-javascript/assets/19349339/1a329d5f-d01e-4096-a43d-aa957d4d5fb3)
+
+## Instalação e execução 
+
+Este projeto foi criado com o Node.js (versão v16.15.1) e npm (versão 8.11.0).
+
+Após baixar/clonar o projeto, abra um terminal, navegue até a pasta do projeto e rode o seguinte comando
+
+    npm install
+
+Para inicializar o projeto em ambiente de desenvolvimento, utilize o comando
+
+    npm run dev
+
+A página poderá ser visualizada na URL http://localhost:3000
