@@ -35,6 +35,16 @@ export default function Footer() {
                 >
                     &copy; {new Date().getFullYear()} DevSoutinho. Todos os direitos reservados.
                 </Text>
+                <Text
+                    as="p"
+                    styleSheet={{
+                        textVariant: theme.typography.variants.body3,
+                        textAlign: "center",
+                        color: theme.colors.neutral[400],
+                    }}
+                >
+                    Desenvolvido no curso <a href="https://www.alura.com.br/curso-online-next-js-iniciando-framework" style={{color: '#724BB7'}}> Next.js: explorando o framework</a>
+                </Text>
             </Box>
         </Box>
     )
